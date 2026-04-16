@@ -1,0 +1,46 @@
+{
+  "absa_label2id": {
+    "positive": 0,
+    "negative": 1,
+    "neutral": 2,
+    "conflict": 3
+  },
+  "emotion_label2id": {
+    "joy": 0,
+    "anger": 1,
+    "sadness": 2,
+    "fear": 3,
+    "surprise": 4,
+    "neutral": 5
+  },
+  "goemotions_fine_to_coarse": {
+    "anger": "anger",
+    "annoyance": "anger",
+    "disapproval": "anger",
+    "disgust": "anger",
+    "fear": "fear",
+    "nervousness": "fear",
+    "joy": "joy",
+    "amusement": "joy",
+    "approval": "joy",
+    "excitement": "joy",
+    "gratitude": "joy",
+    "love": "joy",
+    "optimism": "joy",
+    "relief": "joy",
+    "pride": "joy",
+    "admiration": "joy",
+    "desire": "joy",
+    "caring": "joy",
+    "sadness": "sadness",
+    "disappointment": "sadness",
+    "embarrassment": "sadness",
+    "grief": "sadness",
+    "remorse": "sadness",
+    "surprise": "surprise",
+    "realization": "surprise",
+    "confusion": "surprise",
+    "curiosity": "surprise",
+    "neutral": "neutral"
+  }
+}
