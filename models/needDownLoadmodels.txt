@@ -1,0 +1,6 @@
+https://huggingface.co/api/resolve-cache/models/google-bert/bert-base-uncased
+config.json
+model.safetensors
+tokenizer.json
+tokenizer_config.json
+vocab.txt
